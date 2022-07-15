@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="290px" height="64px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+  <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+    <g transform="matrix(1,0,0,1,-17,-3.98785)">
+      <g transform="matrix(1.23,0,0,1.11,-3.91,-2.2)">
+        <text x="18px" y="15px" style="font-family:'Michroma';font-size:10px;fill:#2ccf17;">J</text>
+      </g>
+      <g transform="matrix(1.23,0,0,1,-7.70042,0)">
+        <text x="29.48px" y="12px" style="font-family:'Michroma';font-size:10px;fill:#2ccf17;">ourney
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.37,0,0,1,20.7665,10.0121)">
+      <text x="6.0px" y="3.5px" style="font-family:'Raleway-Regular', 'Raleway', sans-serif;font-size:4.375px;fill:#ffd700;">ViewportDocs</text>
+    </g>
+  </g>
+</svg>
