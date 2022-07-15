@@ -1,0 +1,33 @@
+{
+  "name": "vpd-static-site",
+  "version": "0.0.1",
+  "description": "This is a static-site website for Journey ViewportDocs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "emmet.includeLanguages": {
+    "njk": "html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwforst/vpd-static-site.git"
+  },
+  "keywords": [
+    "viewport",
+    "viewportDocs",
+    "eleventy",
+    "11ty",
+    "ssg"
+  ],
+  "author": "James Forst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwforst/vpd-static-site/issues"
+  },
+  "homepage": "https://github.com/jwforst/vpd-static-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
