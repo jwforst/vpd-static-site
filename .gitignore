@@ -10,4 +10,5 @@ yarn.lock
 .temp-store/
 
 # App-specific
+_site
 cache
