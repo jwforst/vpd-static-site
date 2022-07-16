@@ -11,5 +11,3 @@ yarn.lock
 
 # App-specific
 cache
-_site/
-public/
